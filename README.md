@@ -36,6 +36,15 @@
    ```bash
    node server.js
    ```
+5. **启动后台控制台**
+    ```bash
+   - node admin-console.js
+   - node.exe admin-console.js
+   ```
+    **更改端口**
+     ```bash
+   - set ADMIN_PORT=9999 && node admin-console.js
+     ```
 
 ### 🛡️ 安全特性
 
